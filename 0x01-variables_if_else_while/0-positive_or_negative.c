@@ -1,6 +1,6 @@
-#include < stdio.h >
-#include < time.h >
-#include < stdlib.h >
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
 *main-main block
 *Description: Get a random number and print the number
@@ -18,7 +18,7 @@ if(n > 0)
 else if(n < 0)
       printf("%i is a negative number\n", n);
 else
-      printf("%i is zero", n);
+      printf("%i is zero\n", n);
 
 return (0);
 }
