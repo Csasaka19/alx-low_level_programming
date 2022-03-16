@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include "main.h"
 /**
 *print_to_98 - print to 98
 *Description: prints all natural numbers from n to 98 followed by a new line
@@ -10,14 +8,14 @@ void print_to_98(int n)
 {
 while (n <= 98)
 {
-printf("%i, ", n);
+_putchar("%d, ", n);
 n++;
 }
 while (n > 98)
 {
-printf("%d, ", n);
+_putchar("%d, ", n);
 n--;
 }
-printf("98");
+_putchar("98");
 putchar('\n');
 }
