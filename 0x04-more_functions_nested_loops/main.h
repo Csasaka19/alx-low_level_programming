@@ -26,8 +26,8 @@ int _isdigit(int c);
 
 /**
  * mul - multiplies two integers
- * @a: one integer
- * @b: second integer
+ * @a: integer argument
+ * @b: integer argument
  * Return: product of a and b
  */
 
