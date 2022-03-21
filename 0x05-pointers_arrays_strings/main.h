@@ -11,7 +11,7 @@
 int _putchar(char c);
 
 /**
-*reset_to_98 - takes a pointer to an intas a parameter
+*reset_to_98 - takes a pointer to an int as a parameter
 *and updates value it points to 98
 *@n: pointer to int n
 */
@@ -78,10 +78,10 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 
 /**
-*_strcpy - copies string pointed by sr, including the null type byte \0
+*_strcpy - copies string pointed by src, including the null type byte \0
 *to buffer pointed by by dest
 *@dest: copy source to this buffer
-*@src: source to copy
+*@src: source to cop
 *Return: the pointer to dest
 */
 
