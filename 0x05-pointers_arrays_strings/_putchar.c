@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
-*_putchar.c - writes vharacter c to stdout
+*_putchar - writes vharacter c to stdout
 *@c: character to print
 *
 *Return: on success 1.
