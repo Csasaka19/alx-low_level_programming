@@ -18,7 +18,7 @@ while (beg < end)
 tmp = *(a + beg);
 *(a + beg) = *(a + end);
 *(a + end) = tmp;
-beg++, 
+beg++;
 end--;
 }
 }
