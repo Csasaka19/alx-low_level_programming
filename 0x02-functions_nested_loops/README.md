@@ -1,7 +1,7 @@
-NESTED LOOPS
-Resources
+# NESTED LOOPS
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Nested while loops
     C - Functions
@@ -9,7 +9,7 @@ Read or watch:
     What is the purpose of a function prototype?
     C - Header Files (stop before the “Once-Only Headers” paragraph)
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -22,8 +22,8 @@ General
     What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
     What are header files and how to to use them with #include
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
