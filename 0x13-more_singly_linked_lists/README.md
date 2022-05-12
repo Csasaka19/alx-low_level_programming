@@ -1,19 +1,19 @@
-MORE LINKED LISTS
-Concepts
+# MORE LINKED LISTS
+# Concepts
 
 For this project, students are expected to look at this concept:
 
     Data Structures
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Linked Lists
     Google
     Youtube
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -21,7 +21,7 @@ General
     When and why using linked lists vs arrays
     How to build and use linked lists
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
