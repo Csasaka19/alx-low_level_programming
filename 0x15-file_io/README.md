@@ -1,13 +1,13 @@
-0x15. C - File I/O
+# 0x15. C - File I/O
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     File descriptors
     C Programming in Linux Tutorial #024 - open() read() write() Functions
 
-man or help:
+# man or help:
 
     open
     close
@@ -15,7 +15,7 @@ man or help:
     write
     dprintf
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -30,8 +30,8 @@ General
     What is a system call
     What is the difference between a function and a system call
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
