@@ -1,12 +1,12 @@
-BIT MANIPULATION
-Resources
+# BIT MANIPULATION
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Google
     Youtube
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -14,8 +14,8 @@ General
     Look for the right source of information without too much help
     How to manipulate bits and use bitwise operators
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
