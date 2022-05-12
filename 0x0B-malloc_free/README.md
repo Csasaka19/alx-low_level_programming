@@ -1,23 +1,23 @@
-MALLOC AND FREE
-Concepts
+# MALLOC AND FREE
+# Concepts
 
 For this project, students are expected to look at this concept:
 
     Automatic and dynamic allocation, malloc and free
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     0x0a - malloc & free - quick overview.pdf
     Dynamic memory allocation in C - malloc calloc realloc free (stop at 6:50)
 
-man or help:
+# man or help:
 
     malloc
     free
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -27,7 +27,7 @@ General
     Why and when use malloc
     How to use valgrind to check for memory leak
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
