@@ -1,8 +1,8 @@
-0x04. C - More functions, more nested loops
+# 0x04. C - More functions, more nested loops
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Nested while loops
     C - Functions
@@ -10,10 +10,10 @@ Read or watch:
     What is the purpose of a function prototype?
     C - Header Files (stop before the “Once-Only Headers” paragraph)
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-General
+# General
 
     What are nested loops and how to use them
     What is a function and how do you use functions
@@ -23,7 +23,7 @@ General
     What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
     What are header files and how to to use them with #include
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
@@ -40,6 +40,6 @@ General
     The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
     Don’t forget to push your header file
 
-More Info
+# More Info
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
