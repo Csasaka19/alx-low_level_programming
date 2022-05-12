@@ -1,14 +1,14 @@
-More pointers, arrays and strings
-Resources
+# More pointers, arrays and strings
+# Resources
 
-Read or watch:
+R# ead or watch:
 
     C - Arrays
     C - Pointers
     C - Strings
     Memory Layout
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -19,7 +19,7 @@ General
     How to use strings and how to manipulate them
     Scope of variables
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
@@ -36,6 +36,6 @@ General
     The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
     Don’t forget to push your header file
 
-More Info
+# More Info
 
 You do not need to learn about pointers to functions, pointers to pointers, multidimensional arrays, arrays of structures, malloc and free - yet.
