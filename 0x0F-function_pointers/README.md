@@ -1,8 +1,8 @@
-Function pointers
+# Function pointers
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Function Pointer in C
     Pointers to functions
@@ -19,7 +19,7 @@ General
     What does a function pointer exactly hold
     Where does a function pointer point to in the virtual memory
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
