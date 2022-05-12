@@ -1,8 +1,8 @@
-0x01. C - Variables, if, else, while
+# 0x01. C - Variables, if, else, while
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Everything you need to know to start with C.pdf (You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.)
     Keywords and identifiers
@@ -15,11 +15,11 @@ Read or watch:
     while loop in C
     While loop
 
-man or help:
+# man or help:
 
     ascii (You do not need to learn about scanf, getc, getchar, EOF, EXIT_SUCCESS, time, rand, srand, RAND_MAX, for loops, do...while loops, functions.)
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -40,8 +40,8 @@ General
     What is the ASCII character set
     What are the purpose of the gcc flags -m32 and -m64
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
