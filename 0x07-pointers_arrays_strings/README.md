@@ -1,14 +1,14 @@
-Pointers, arrays and strings
-Concepts
+# Pointers, arrays and strings
+# Concepts
 
 For this project, students are expected to look at these concepts:
 
     Pointers and arrays
     Data Structures
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     C - Arrays
     C - Pointers
@@ -26,7 +26,7 @@ General
     How to use strings and how to manipulate them
     Scope of variables
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
@@ -43,6 +43,6 @@ General
     The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
     Don’t forget to push your header file
 
-More Info
+# More Info
 
 You do not need to learn about pointers to functions, pointers to pointers, multidimensional arrays, arrays of structures, malloc and free - yet.
