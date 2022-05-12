@@ -1,7 +1,7 @@
-0x0A. C - argc, argv
+# 0x0A. C - argc, argv
 
 
-Resources
+# Resources
 
 Read or watch:
 
@@ -10,7 +10,7 @@ Read or watch:
     What does argc and argv mean?
     how to compile with unused variables
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -19,7 +19,7 @@ General
     What are two prototypes of main that you know of, and in which case do you use one or the other
     How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
