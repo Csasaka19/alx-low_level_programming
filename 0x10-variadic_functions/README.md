@@ -1,18 +1,18 @@
-0x10-variadic_functions
+# 0x10-variadic_functions
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     stdarg.h
     Variadic Functions
     Const Keyword
 
-man or help:
+# man or help:
 
     stdarg
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -21,7 +21,7 @@ General
     How to use va_start, va_arg and va_end macros
     Why and how to use the const type qualifier
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
