@@ -1,7 +1,7 @@
-DEBBUGING
-Resources
+# DEBBUGING
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Debugging
     Rubber Duck Debugging
@@ -10,13 +10,13 @@ Debugging is the process of finding and fixing errors in software that prevents 
 Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-General
+# General
 
     What is debugging
     What are some methods of debugging manually
     How to read the error messages
 
-Requirements
+# Requirements
 General
 
     Allowed editors: vi, vim, emacs
