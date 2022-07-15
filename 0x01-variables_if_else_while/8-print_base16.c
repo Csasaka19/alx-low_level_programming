@@ -12,16 +12,15 @@ char d = '0';
 while (d <= '9')
 {
 putchar(d);
-d++;
+d += 1;
 }
 
-char c = 'a'
-          
-while (c <= 'f')
+d = 'a';
+while (d <= 'f')
 {
-putchar(c);
-c++;
+putchar(d);
+d += 1;
 }
-putchar('\n')
-return 0;
+putchar('\n');
+return (0);
 }

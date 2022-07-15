@@ -2,23 +2,24 @@
 #include <stdlib.h>
 /**
 *main - main block
-*Description: prints combinations of two single digit numbers followed by a new line
-*Return: 0
+*Description: prints combinations of two single
+*digit numbers followed by a new line
+*Return: (0)
 */
 int main(void)
 {
-int c = 0;
+int f = '0';
 
-while (c < 10)
+while (f <= '9')
 {
-putchar(48 + c);
-if (c != 9)
+putchar(f);
+if (f != 9)
 {
 putchar(',');
 putchar(' ');
 }
-c++;
+f += 1;
 }
 putchar('\n');
-return 0;
+return (0);
 }

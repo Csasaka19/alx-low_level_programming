@@ -1,19 +1,20 @@
 #include <stdio.h>
 /**
-*Description: prints lower case except q and e followed by a new line
-*Return 0
+  *main - main block
+ *Description: prints lower case except q and e followed by a new line
+ *Return: 0
 */
 int main(void)
 {
-char c = 'a';
-while (c <= 'z')
+char a = 'a';
+while (a <= 'z')
 {
-if (c != 'q' && c != 'e')
+if (a != 'q' && a != 'e')
 {
-putchar(c);
+putchar(a);
+a += 1;
 }
-c++;
 }
 putchar('\n');
-return 0;
+return (0);
 }

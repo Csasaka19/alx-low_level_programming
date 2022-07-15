@@ -2,18 +2,19 @@
 #include <time.h>
 #include <stdlib.h>
 /**
+  *main - main block
 *Description: prints number to base 10 starting from 0 followed by a newline
 *Return: 0
 */
 int main(void)
 {
-char c = '0'
+char k = 0;
 
-while (c <= 9)
+while (k < 10)
 {
-putchar(c);
-c++;
+printf("%i", k);
+k += 1;
 }
 putchar('\n');
-return 0;
+return (0);
 }
