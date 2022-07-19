@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-*void print_numbers(void): prints numbers from 0 to 9
+*print_numbers - prints numbers from 0 to 9
 */
 void print_numbers(void)
 {
-char k;
+char k = '0';
 while (k <= '9')
 {
 _putchar(k);
